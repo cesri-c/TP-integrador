@@ -5,7 +5,7 @@ Este repositorio contiene la entrega del Trabajo Práctico Integrador realizado 
 ## Integrantes
 
 - Cesar Torrico
-- Su
+- Juan Nicolás Su
 - axi
 - kim
 
