@@ -7,7 +7,7 @@ Este repositorio contiene la entrega del Trabajo Práctico Integrador realizado 
 - Cesar Torrico
 - Juan Nicolás Su
 - axi
-- kim
+- kimberly Tirado
 
 ## Contenido
 
