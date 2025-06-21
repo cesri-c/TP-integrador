@@ -1,0 +1,35 @@
+
+Start-Date: 2025-06-06  12:35:06
+Commandline: apt install git
+Install: git:amd64 (1:2.30.2-1+deb11u4), patch:amd64 (2.7.6-7, automatic), liberror-perl:amd64 (0.17029-1, automatic), git-man:amd64 (1:2.30.2-1+deb11u4, automatic)
+End-Date: 2025-06-06  12:35:11
+
+Start-Date: 2025-06-07  15:34:37
+Commandline: apt upgrade
+Upgrade: krb5-locales:amd64 (1.18.3-6+deb11u6, 1.18.3-6+deb11u7), libgssapi-krb5-2:amd64 (1.18.3-6+deb11u6, 1.18.3-6+deb11u7), mariadb-server:amd64 (1:10.5.28-0+deb11u2, 1:10.5.29-0+deb11u1), libkrb5support0:amd64 (1.18.3-6+deb11u6, 1.18.3-6+deb11u7), mariadb-server-core-10.5:amd64 (1:10.5.28-0+deb11u2, 1:10.5.29-0+deb11u1), python3-pkg-resources:amd64 (52.0.0-4+deb11u1, 52.0.0-4+deb11u2), libc6:amd64 (2.31-13+deb11u12, 2.31-13+deb11u13), locales:amd64 (2.31-13+deb11u12, 2.31-13+deb11u13), libkrb5-3:amd64 (1.18.3-6+deb11u6, 1.18.3-6+deb11u7), net-tools:amd64 (1.60+git20181103.0eebece-1+deb11u1, 1.60+git20181103.0eebece-1+deb11u2), libk5crypto3:amd64 (1.18.3-6+deb11u6, 1.18.3-6+deb11u7), mariadb-client-10.5:amd64 (1:10.5.28-0+deb11u2, 1:10.5.29-0+deb11u1), mariadb-common:amd64 (1:10.5.28-0+deb11u2, 1:10.5.29-0+deb11u1), libssl1.1:amd64 (1.1.1w-0+deb11u2, 1.1.1w-0+deb11u3), libc-l10n:amd64 (2.31-13+deb11u12, 2.31-13+deb11u13), libmariadb3:amd64 (1:10.5.28-0+deb11u2, 1:10.5.29-0+deb11u1), libc-bin:amd64 (2.31-13+deb11u12, 2.31-13+deb11u13), mariadb-server-10.5:amd64 (1:10.5.28-0+deb11u2, 1:10.5.29-0+deb11u1), mariadb-client-core-10.5:amd64 (1:10.5.28-0+deb11u2, 1:10.5.29-0+deb11u1), openssl:amd64 (1.1.1w-0+deb11u2, 1.1.1w-0+deb11u3)
+End-Date: 2025-06-07  15:35:09
+
+Start-Date: 2025-06-08  21:27:28
+Commandline: apt install php libapache2-mod-php -y
+Install: libapache2-mod-php:amd64 (2:7.4+76)
+End-Date: 2025-06-08  21:27:29
+
+Start-Date: 2025-06-08  22:09:48
+Commandline: apt purge apache2 php libapache2-mod-php -y
+Purge: php:amd64 (2:7.4+76), libapache2-mod-php:amd64 (2:7.4+76), apache2:amd64 (2.4.62-1~deb11u2)
+End-Date: 2025-06-08  22:09:51
+
+Start-Date: 2025-06-08  22:10:15
+Commandline: apt autoremove --purge -y
+Purge: linux-image-4.19.0-9-amd64:amd64 (4.19.118-2), php7.4-readline:amd64 (7.4.33-1+deb11u8), ssl-cert:amd64 (1.1.0+nmu1), libaprutil1-dbd-sqlite3:amd64 (1.6.1-5+deb11u1), libapr1:amd64 (1.7.0-6+deb11u2), php7.4-opcache:amd64 (7.4.33-1+deb11u8), php-common:amd64 (2:76), libjansson4:amd64 (2.13.1-1.1), liblua5.3-0:amd64 (5.3.3-1.1+deb11u1), libapache2-mod-php7.4:amd64 (7.4.33-1+deb11u8), php7.4:amd64 (7.4.33-1+deb11u8), php7.4-cli:amd64 (7.4.33-1+deb11u8), php7.4-json:amd64 (7.4.33-1+deb11u8), apache2-data:amd64 (2.4.62-1~deb11u2), apache2-bin:amd64 (2.4.62-1~deb11u2), libsodium23:amd64 (1.0.18-1), libaprutil1:amd64 (1.6.1-5+deb11u1), php7.4-common:amd64 (7.4.33-1+deb11u8), apache2-utils:amd64 (2.4.62-1~deb11u2), libaprutil1-ldap:amd64 (1.6.1-5+deb11u1)
+End-Date: 2025-06-08  22:10:27
+
+Start-Date: 2025-06-08  22:11:01
+Commandline: apt install apache2 php libapache2-mod-php -y
+Install: php7.4-readline:amd64 (7.4.33-1+deb11u8, automatic), ssl-cert:amd64 (1.1.0+nmu1, automatic), libaprutil1-dbd-sqlite3:amd64 (1.6.1-5+deb11u1, automatic), php:amd64 (2:7.4+76), libapr1:amd64 (1.7.0-6+deb11u2, automatic), php7.4-opcache:amd64 (7.4.33-1+deb11u8, automatic), libapache2-mod-php:amd64 (2:7.4+76), php-common:amd64 (2:76, automatic), libjansson4:amd64 (2.13.1-1.1, automatic), liblua5.3-0:amd64 (5.3.3-1.1+deb11u1, automatic), libapache2-mod-php7.4:amd64 (7.4.33-1+deb11u8, automatic), php7.4:amd64 (7.4.33-1+deb11u8, automatic), php7.4-cli:amd64 (7.4.33-1+deb11u8, automatic), php7.4-json:amd64 (7.4.33-1+deb11u8, automatic), apache2-data:amd64 (2.4.62-1~deb11u2, automatic), apache2-bin:amd64 (2.4.62-1~deb11u2, automatic), libsodium23:amd64 (1.0.18-1, automatic), libaprutil1:amd64 (1.6.1-5+deb11u1, automatic), php7.4-common:amd64 (7.4.33-1+deb11u8, automatic), apache2-utils:amd64 (2.4.62-1~deb11u2, automatic), apache2:amd64 (2.4.62-1~deb11u2), libaprutil1-ldap:amd64 (1.6.1-5+deb11u1, automatic)
+End-Date: 2025-06-08  22:11:20
+
+Start-Date: 2025-06-09  01:49:00
+Commandline: apt install php-mysql -y
+Install: php7.4-mysql:amd64 (7.4.33-1+deb11u8, automatic), php-mysql:amd64 (2:7.4+76)
+End-Date: 2025-06-09  01:49:02

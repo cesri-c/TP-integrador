@@ -1,0 +1,13 @@
+Jun 21 15:21:12 TPServer sshd[596]: Server listening on 0.0.0.0 port 22.
+Jun 21 15:21:12 TPServer sshd[596]: Server listening on :: port 22.
+Jun 21 15:21:30 TPServer login[526]: pam_unix(login:session): session opened for user root(uid=0) by LOGIN(uid=0)
+Jun 21 15:21:30 TPServer systemd-logind[447]: New session 2 of user root.
+Jun 21 15:21:30 TPServer systemd: pam_unix(systemd-user:session): session opened for user root(uid=0) by (uid=0)
+Jun 21 15:21:30 TPServer login[709]: ROOT LOGIN  on '/dev/tty1'
+Jun 21 15:22:35 TPServer sshd[713]: Accepted password for root from 192.168.1.2 port 50116 ssh2
+Jun 21 15:22:35 TPServer sshd[713]: pam_unix(sshd:session): session opened for user root(uid=0) by (uid=0)
+Jun 21 15:22:35 TPServer systemd-logind[447]: New session 4 of user root.
+Jun 21 15:30:01 TPServer CRON[787]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 21 15:30:01 TPServer CRON[787]: pam_unix(cron:session): session closed for user root
+Jun 21 15:39:01 TPServer CRON[813]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 21 15:39:01 TPServer CRON[813]: pam_unix(cron:session): session closed for user root

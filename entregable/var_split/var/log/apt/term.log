@@ -1,0 +1,368 @@
+
+Log started: 2025-06-06  12:35:06
+Seleccionando el paquete liberror-perl previamente no seleccionado.
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 48817 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../liberror-perl_0.17029-1_all.deb ...
+Desempaquetando liberror-perl (0.17029-1) ...
+Seleccionando el paquete git-man previamente no seleccionado.
+Preparando para desempaquetar .../git-man_1%3a2.30.2-1+deb11u4_all.deb ...
+Desempaquetando git-man (1:2.30.2-1+deb11u4) ...
+Seleccionando el paquete git previamente no seleccionado.
+Preparando para desempaquetar .../git_1%3a2.30.2-1+deb11u4_amd64.deb ...
+Desempaquetando git (1:2.30.2-1+deb11u4) ...
+Seleccionando el paquete patch previamente no seleccionado.
+Preparando para desempaquetar .../patch_2.7.6-7_amd64.deb ...
+Desempaquetando patch (2.7.6-7) ...
+Configurando liberror-perl (0.17029-1) ...
+Configurando patch (2.7.6-7) ...
+Configurando git-man (1:2.30.2-1+deb11u4) ...
+Configurando git (1:2.30.2-1+deb11u4) ...
+Procesando disparadores para man-db (2.9.4-2) ...
+Log ended: 2025-06-06  12:35:11
+
+Log started: 2025-06-07  15:34:37
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 49823 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../libc6_2.31-13+deb11u13_amd64.deb ...
+Desempaquetando libc6:amd64 (2.31-13+deb11u13) sobre (2.31-13+deb11u12) ...
+Configurando libc6:amd64 (2.31-13+deb11u13) ...
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 49823 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../libc-bin_2.31-13+deb11u13_amd64.deb ...
+Desempaquetando libc-bin (2.31-13+deb11u13) sobre (2.31-13+deb11u12) ...
+Configurando libc-bin (2.31-13+deb11u13) ...
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 49823 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../mariadb-common_1%3a10.5.29-0+deb11u1_all.deb ...
+Desempaquetando mariadb-common (1:10.5.29-0+deb11u1) sobre (1:10.5.28-0+deb11u2) ...
+Preparando para desempaquetar .../libssl1.1_1.1.1w-0+deb11u3_amd64.deb ...
+Desempaquetando libssl1.1:amd64 (1.1.1w-0+deb11u3) sobre (1.1.1w-0+deb11u2) ...
+Configurando libssl1.1:amd64 (1.1.1w-0+deb11u3) ...
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 49823 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../libmariadb3_1%3a10.5.29-0+deb11u1_amd64.deb ...
+Desempaquetando libmariadb3:amd64 (1:10.5.29-0+deb11u1) sobre (1:10.5.28-0+deb11u2) ...
+Preparando para desempaquetar .../mariadb-client-core-10.5_1%3a10.5.29-0+deb11u1_amd64.deb ...
+Desempaquetando mariadb-client-core-10.5 (1:10.5.29-0+deb11u1) sobre (1:10.5.28-0+deb11u2) ...
+Preparando para desempaquetar .../mariadb-client-10.5_1%3a10.5.29-0+deb11u1_amd64.deb ...
+Desempaquetando mariadb-client-10.5 (1:10.5.29-0+deb11u1) sobre (1:10.5.28-0+deb11u2) ...
+Preparando para desempaquetar .../mariadb-server-core-10.5_1%3a10.5.29-0+deb11u1_amd64.deb ...
+Desempaquetando mariadb-server-core-10.5 (1:10.5.29-0+deb11u1) sobre (1:10.5.28-0+deb11u2) ...
+Configurando mariadb-common (1:10.5.29-0+deb11u1) ...
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 49823 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../mariadb-server-10.5_1%3a10.5.29-0+deb11u1_amd64.deb ...
+/var/lib/mysql: found previous version 10.5
+Desempaquetando mariadb-server-10.5 (1:10.5.29-0+deb11u1) sobre (1:10.5.28-0+deb11u2) ...
+Preparando para desempaquetar .../libk5crypto3_1.18.3-6+deb11u7_amd64.deb ...
+Desempaquetando libk5crypto3:amd64 (1.18.3-6+deb11u7) sobre (1.18.3-6+deb11u6) ...
+Configurando libk5crypto3:amd64 (1.18.3-6+deb11u7) ...
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 49823 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../libkrb5support0_1.18.3-6+deb11u7_amd64.deb ...
+Desempaquetando libkrb5support0:amd64 (1.18.3-6+deb11u7) sobre (1.18.3-6+deb11u6) ...
+Configurando libkrb5support0:amd64 (1.18.3-6+deb11u7) ...
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 49823 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../libkrb5-3_1.18.3-6+deb11u7_amd64.deb ...
+Desempaquetando libkrb5-3:amd64 (1.18.3-6+deb11u7) sobre (1.18.3-6+deb11u6) ...
+Configurando libkrb5-3:amd64 (1.18.3-6+deb11u7) ...
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 49823 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../libgssapi-krb5-2_1.18.3-6+deb11u7_amd64.deb ...
+Desempaquetando libgssapi-krb5-2:amd64 (1.18.3-6+deb11u7) sobre (1.18.3-6+deb11u6) ...
+Configurando libgssapi-krb5-2:amd64 (1.18.3-6+deb11u7) ...
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 49823 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../0-krb5-locales_1.18.3-6+deb11u7_all.deb ...
+Desempaquetando krb5-locales (1.18.3-6+deb11u7) sobre (1.18.3-6+deb11u6) ...
+Preparando para desempaquetar .../1-libc-l10n_2.31-13+deb11u13_all.deb ...
+Desempaquetando libc-l10n (2.31-13+deb11u13) sobre (2.31-13+deb11u12) ...
+Preparando para desempaquetar .../2-locales_2.31-13+deb11u13_all.deb ...
+Desempaquetando locales (2.31-13+deb11u13) sobre (2.31-13+deb11u12) ...
+Preparando para desempaquetar .../3-mariadb-server_1%3a10.5.29-0+deb11u1_all.deb ...
+Desempaquetando mariadb-server (1:10.5.29-0+deb11u1) sobre (1:10.5.28-0+deb11u2) ...
+Preparando para desempaquetar .../4-net-tools_1.60+git20181103.0eebece-1+deb11u2_amd64.deb ...
+Desempaquetando net-tools (1.60+git20181103.0eebece-1+deb11u2) sobre (1.60+git20181103.0eebece-1+deb11u1) ...
+Preparando para desempaquetar .../5-openssl_1.1.1w-0+deb11u3_amd64.deb ...
+Desempaquetando openssl (1.1.1w-0+deb11u3) sobre (1.1.1w-0+deb11u2) ...
+Preparando para desempaquetar .../6-python3-pkg-resources_52.0.0-4+deb11u2_all.deb ...
+Desempaquetando python3-pkg-resources (52.0.0-4+deb11u2) sobre (52.0.0-4+deb11u1) ...
+Configurando python3-pkg-resources (52.0.0-4+deb11u2) ...
+Configurando mariadb-server-core-10.5 (1:10.5.29-0+deb11u1) ...
+Configurando net-tools (1.60+git20181103.0eebece-1+deb11u2) ...
+Configurando libc-l10n (2.31-13+deb11u13) ...
+Configurando krb5-locales (1.18.3-6+deb11u7) ...
+Configurando locales (2.31-13+deb11u13) ...
+Generating locales (this might take a while)...
+  es_AR.UTF-8... done
+Generation complete.
+Configurando libmariadb3:amd64 (1:10.5.29-0+deb11u1) ...
+Configurando openssl (1.1.1w-0+deb11u3) ...
+Configurando mariadb-client-core-10.5 (1:10.5.29-0+deb11u1) ...
+Configurando mariadb-client-10.5 (1:10.5.29-0+deb11u1) ...
+Configurando mariadb-server-10.5 (1:10.5.29-0+deb11u1) ...
+Instalando una nueva versión del fichero de configuración /etc/init.d/mariadb ...
+Configurando mariadb-server (1:10.5.29-0+deb11u1) ...
+Procesando disparadores para man-db (2.9.4-2) ...
+Procesando disparadores para libc-bin (2.31-13+deb11u13) ...
+Log ended: 2025-06-07  15:35:09
+
+Log started: 2025-06-08  21:27:28
+Seleccionando el paquete libapache2-mod-php previamente no seleccionado.
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 49823 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../libapache2-mod-php_2%3a7.4+76_all.deb ...
+Desempaquetando libapache2-mod-php (2:7.4+76) ...
+Configurando libapache2-mod-php (2:7.4+76) ...
+Log ended: 2025-06-08  21:27:29
+
+Log started: 2025-06-08  22:09:48
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 49826 ficheros o directorios instalados actualmente.)
+Desinstalando apache2 (2.4.62-1~deb11u2) ...
+Desinstalando libapache2-mod-php (2:7.4+76) ...
+Desinstalando php (2:7.4+76) ...
+Procesando disparadores para man-db (2.9.4-2) ...
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 49769 ficheros o directorios instalados actualmente.)
+Purgando ficheros de configuración de apache2 (2.4.62-1~deb11u2) ...
+[1mdpkg:[0m [1;33matención:[0m al desinstalar apache2, el directorio «/var/www/html» no está vacío, por lo que no se borra
+Log ended: 2025-06-08  22:09:51
+
+Log started: 2025-06-08  22:10:15
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 49604 ficheros o directorios instalados actualmente.)
+Desinstalando php7.4 (7.4.33-1+deb11u8) ...
+Desinstalando libapache2-mod-php7.4 (7.4.33-1+deb11u8) ...
+Desinstalando apache2-bin (2.4.62-1~deb11u2) ...
+Desinstalando apache2-data (2.4.62-1~deb11u2) ...
+Desinstalando apache2-utils (2.4.62-1~deb11u2) ...
+Desinstalando libaprutil1-ldap:amd64 (1.6.1-5+deb11u1) ...
+Desinstalando libaprutil1-dbd-sqlite3:amd64 (1.6.1-5+deb11u1) ...
+Desinstalando libaprutil1:amd64 (1.6.1-5+deb11u1) ...
+Desinstalando libapr1:amd64 (1.7.0-6+deb11u2) ...
+Desinstalando libjansson4:amd64 (2.13.1-1.1) ...
+Desinstalando liblua5.3-0:amd64 (5.3.3-1.1+deb11u1) ...
+Desinstalando php7.4-cli (7.4.33-1+deb11u8) ...
+Desinstalando libsodium23:amd64 (1.0.18-1) ...
+Desinstalando linux-image-4.19.0-9-amd64 (4.19.118-2) ...
+/etc/kernel/postrm.d/initramfs-tools:
+update-initramfs: Deleting /boot/initrd.img-4.19.0-9-amd64
+/etc/kernel/postrm.d/zz-update-grub:
+Generating grub configuration file ...
+Found linux image: /boot/vmlinuz-5.10.0-35-amd64
+Found initrd image: /boot/initrd.img-5.10.0-35-amd64
+Found linux image: /boot/vmlinuz-5.10.0-30-amd64
+Found initrd image: /boot/initrd.img-5.10.0-30-amd64
+Warning: os-prober will be executed to detect other bootable partitions.
+Its output will be used to detect bootable binaries on them and create new boot entries.
+done
+Desinstalando php7.4-readline (7.4.33-1+deb11u8) ...
+Desinstalando php7.4-opcache (7.4.33-1+deb11u8) ...
+Desinstalando php7.4-json (7.4.33-1+deb11u8) ...
+Desinstalando php7.4-common (7.4.33-1+deb11u8) ...
+Desinstalando ssl-cert (1.1.0+nmu1) ...
+Desinstalando php-common (2:76) ...
+Warning: Stopping phpsessionclean.service, but it can still be activated by:
+  phpsessionclean.timer
+Procesando disparadores para man-db (2.9.4-2) ...
+Procesando disparadores para libc-bin (2.31-13+deb11u13) ...
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 44546 ficheros o directorios instalados actualmente.)
+Purgando ficheros de configuración de libapache2-mod-php7.4 (7.4.33-1+deb11u8) ...
+Purgando ficheros de configuración de php-common (2:76) ...
+Purgando ficheros de configuración de linux-image-4.19.0-9-amd64 (4.19.118-2) ...
+Purgando ficheros de configuración de php7.4-json (7.4.33-1+deb11u8) ...
+Purgando ficheros de configuración de php7.4-common (7.4.33-1+deb11u8) ...
+[1mdpkg:[0m [1;33matención:[0m al desinstalar php7.4-common, el directorio «/etc/php/7.4/mods-available» no está vacío, por lo que no se borra
+Purgando ficheros de configuración de php7.4-readline (7.4.33-1+deb11u8) ...
+Purgando ficheros de configuración de php7.4-cli (7.4.33-1+deb11u8) ...
+[1mdpkg:[0m [1;33matención:[0m al desinstalar php7.4-cli, el directorio «/etc/php/7.4» no está vacío, por lo que no se borra
+Purgando ficheros de configuración de ssl-cert (1.1.0+nmu1) ...
+Purgando ficheros de configuración de php7.4-opcache (7.4.33-1+deb11u8) ...
+Log ended: 2025-06-08  22:10:27
+
+Log started: 2025-06-08  22:11:01
+Seleccionando el paquete libapr1:amd64 previamente no seleccionado.
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 44533 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../00-libapr1_1.7.0-6+deb11u2_amd64.deb ...
+Desempaquetando libapr1:amd64 (1.7.0-6+deb11u2) ...
+Seleccionando el paquete libaprutil1:amd64 previamente no seleccionado.
+Preparando para desempaquetar .../01-libaprutil1_1.6.1-5+deb11u1_amd64.deb ...
+Desempaquetando libaprutil1:amd64 (1.6.1-5+deb11u1) ...
+Seleccionando el paquete libaprutil1-dbd-sqlite3:amd64 previamente no seleccionado.
+Preparando para desempaquetar .../02-libaprutil1-dbd-sqlite3_1.6.1-5+deb11u1_amd64.deb ...
+Desempaquetando libaprutil1-dbd-sqlite3:amd64 (1.6.1-5+deb11u1) ...
+Seleccionando el paquete libaprutil1-ldap:amd64 previamente no seleccionado.
+Preparando para desempaquetar .../03-libaprutil1-ldap_1.6.1-5+deb11u1_amd64.deb ...
+Desempaquetando libaprutil1-ldap:amd64 (1.6.1-5+deb11u1) ...
+Seleccionando el paquete libjansson4:amd64 previamente no seleccionado.
+Preparando para desempaquetar .../04-libjansson4_2.13.1-1.1_amd64.deb ...
+Desempaquetando libjansson4:amd64 (2.13.1-1.1) ...
+Seleccionando el paquete liblua5.3-0:amd64 previamente no seleccionado.
+Preparando para desempaquetar .../05-liblua5.3-0_5.3.3-1.1+deb11u1_amd64.deb ...
+Desempaquetando liblua5.3-0:amd64 (5.3.3-1.1+deb11u1) ...
+Seleccionando el paquete apache2-bin previamente no seleccionado.
+Preparando para desempaquetar .../06-apache2-bin_2.4.62-1~deb11u2_amd64.deb ...
+Desempaquetando apache2-bin (2.4.62-1~deb11u2) ...
+Seleccionando el paquete apache2-data previamente no seleccionado.
+Preparando para desempaquetar .../07-apache2-data_2.4.62-1~deb11u2_all.deb ...
+Desempaquetando apache2-data (2.4.62-1~deb11u2) ...
+Seleccionando el paquete apache2-utils previamente no seleccionado.
+Preparando para desempaquetar .../08-apache2-utils_2.4.62-1~deb11u2_amd64.deb ...
+Desempaquetando apache2-utils (2.4.62-1~deb11u2) ...
+Seleccionando el paquete apache2 previamente no seleccionado.
+Preparando para desempaquetar .../09-apache2_2.4.62-1~deb11u2_amd64.deb ...
+Desempaquetando apache2 (2.4.62-1~deb11u2) ...
+Seleccionando el paquete php-common previamente no seleccionado.
+Preparando para desempaquetar .../10-php-common_2%3a76_all.deb ...
+Desempaquetando php-common (2:76) ...
+Seleccionando el paquete php7.4-common previamente no seleccionado.
+Preparando para desempaquetar .../11-php7.4-common_7.4.33-1+deb11u8_amd64.deb ...
+Desempaquetando php7.4-common (7.4.33-1+deb11u8) ...
+Seleccionando el paquete php7.4-json previamente no seleccionado.
+Preparando para desempaquetar .../12-php7.4-json_7.4.33-1+deb11u8_amd64.deb ...
+Desempaquetando php7.4-json (7.4.33-1+deb11u8) ...
+Seleccionando el paquete php7.4-opcache previamente no seleccionado.
+Preparando para desempaquetar .../13-php7.4-opcache_7.4.33-1+deb11u8_amd64.deb ...
+Desempaquetando php7.4-opcache (7.4.33-1+deb11u8) ...
+Seleccionando el paquete php7.4-readline previamente no seleccionado.
+Preparando para desempaquetar .../14-php7.4-readline_7.4.33-1+deb11u8_amd64.deb ...
+Desempaquetando php7.4-readline (7.4.33-1+deb11u8) ...
+Seleccionando el paquete libsodium23:amd64 previamente no seleccionado.
+Preparando para desempaquetar .../15-libsodium23_1.0.18-1_amd64.deb ...
+Desempaquetando libsodium23:amd64 (1.0.18-1) ...
+Seleccionando el paquete php7.4-cli previamente no seleccionado.
+Preparando para desempaquetar .../16-php7.4-cli_7.4.33-1+deb11u8_amd64.deb ...
+Desempaquetando php7.4-cli (7.4.33-1+deb11u8) ...
+Seleccionando el paquete libapache2-mod-php7.4 previamente no seleccionado.
+Preparando para desempaquetar .../17-libapache2-mod-php7.4_7.4.33-1+deb11u8_amd64.deb ...
+Desempaquetando libapache2-mod-php7.4 (7.4.33-1+deb11u8) ...
+Seleccionando el paquete libapache2-mod-php previamente no seleccionado.
+Preparando para desempaquetar .../18-libapache2-mod-php_2%3a7.4+76_all.deb ...
+Desempaquetando libapache2-mod-php (2:7.4+76) ...
+Seleccionando el paquete php7.4 previamente no seleccionado.
+Preparando para desempaquetar .../19-php7.4_7.4.33-1+deb11u8_all.deb ...
+Desempaquetando php7.4 (7.4.33-1+deb11u8) ...
+Seleccionando el paquete php previamente no seleccionado.
+Preparando para desempaquetar .../20-php_2%3a7.4+76_all.deb ...
+Desempaquetando php (2:7.4+76) ...
+Seleccionando el paquete ssl-cert previamente no seleccionado.
+Preparando para desempaquetar .../21-ssl-cert_1.1.0+nmu1_all.deb ...
+Desempaquetando ssl-cert (1.1.0+nmu1) ...
+Configurando php-common (2:76) ...
+Created symlink /etc/systemd/system/timers.target.wants/phpsessionclean.timer → /lib/systemd/system/phpsessionclean.timer.
+Configurando libsodium23:amd64 (1.0.18-1) ...
+Configurando php7.4-common (7.4.33-1+deb11u8) ...
+
+Creating config file /etc/php/7.4/mods-available/calendar.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/ctype.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/exif.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/fileinfo.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/ffi.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/ftp.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/gettext.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/iconv.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/pdo.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/phar.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/posix.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/shmop.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/sockets.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/sysvmsg.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/sysvsem.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/sysvshm.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/tokenizer.ini with new version
+Configurando libapr1:amd64 (1.7.0-6+deb11u2) ...
+Configurando php7.4-readline (7.4.33-1+deb11u8) ...
+
+Creating config file /etc/php/7.4/mods-available/readline.ini with new version
+Configurando libjansson4:amd64 (2.13.1-1.1) ...
+Configurando ssl-cert (1.1.0+nmu1) ...
+Configurando liblua5.3-0:amd64 (5.3.3-1.1+deb11u1) ...
+Configurando php7.4-opcache (7.4.33-1+deb11u8) ...
+
+Creating config file /etc/php/7.4/mods-available/opcache.ini with new version
+Configurando apache2-data (2.4.62-1~deb11u2) ...
+Configurando libaprutil1:amd64 (1.6.1-5+deb11u1) ...
+Configurando php7.4-json (7.4.33-1+deb11u8) ...
+
+Creating config file /etc/php/7.4/mods-available/json.ini with new version
+Configurando php7.4-cli (7.4.33-1+deb11u8) ...
+update-alternatives: utilizando /usr/bin/php7.4 para proveer /usr/bin/php (php) en modo automático
+update-alternatives: utilizando /usr/bin/phar7.4 para proveer /usr/bin/phar (phar) en modo automático
+update-alternatives: utilizando /usr/bin/phar.phar7.4 para proveer /usr/bin/phar.phar (phar.phar) en modo automático
+
+Creating config file /etc/php/7.4/cli/php.ini with new version
+Configurando libaprutil1-ldap:amd64 (1.6.1-5+deb11u1) ...
+Configurando libaprutil1-dbd-sqlite3:amd64 (1.6.1-5+deb11u1) ...
+Configurando apache2-utils (2.4.62-1~deb11u2) ...
+Configurando apache2-bin (2.4.62-1~deb11u2) ...
+Configurando libapache2-mod-php7.4 (7.4.33-1+deb11u8) ...
+Package apache2 is not configured yet. Will defer actions by package libapache2-mod-php7.4.
+
+Creating config file /etc/php/7.4/apache2/php.ini with new version
+No module matches 
+Configurando apache2 (2.4.62-1~deb11u2) ...
+Enabling module mpm_event.
+Enabling module authz_core.
+Enabling module authz_host.
+Enabling module authn_core.
+Enabling module auth_basic.
+Enabling module access_compat.
+Enabling module authn_file.
+Enabling module authz_user.
+Enabling module alias.
+Enabling module dir.
+Enabling module autoindex.
+Enabling module env.
+Enabling module mime.
+Enabling module negotiation.
+Enabling module setenvif.
+Enabling module filter.
+Enabling module deflate.
+Enabling module status.
+Enabling module reqtimeout.
+Enabling conf charset.
+Enabling conf localized-error-pages.
+Enabling conf other-vhosts-access-log.
+Enabling conf security.
+Enabling conf serve-cgi-bin.
+Enabling site 000-default.
+info: Switch to mpm prefork for package libapache2-mod-php7.4
+Module mpm_event disabled.
+Enabling module mpm_prefork.
+info: Executing deferred 'a2enmod php7.4' for package libapache2-mod-php7.4
+Enabling module php7.4.
+Created symlink /etc/systemd/system/multi-user.target.wants/apache2.service → /lib/systemd/system/apache2.service.
+Created symlink /etc/systemd/system/multi-user.target.wants/apache-htcacheclean.service → /lib/systemd/system/apache-htcacheclean.service.
+Configurando php7.4 (7.4.33-1+deb11u8) ...
+Configurando libapache2-mod-php (2:7.4+76) ...
+Configurando php (2:7.4+76) ...
+Procesando disparadores para man-db (2.9.4-2) ...
+Procesando disparadores para libc-bin (2.31-13+deb11u13) ...
+Procesando disparadores para php7.4-cli (7.4.33-1+deb11u8) ...
+Procesando disparadores para libapache2-mod-php7.4 (7.4.33-1+deb11u8) ...
+Log ended: 2025-06-08  22:11:20
+
+Log started: 2025-06-09  01:49:00
+Seleccionando el paquete php7.4-mysql previamente no seleccionado.
+(Leyendo la base de datos ... (Leyendo la base de datos ... 5%(Leyendo la base de datos ... 10%(Leyendo la base de datos ... 15%(Leyendo la base de datos ... 20%(Leyendo la base de datos ... 25%(Leyendo la base de datos ... 30%(Leyendo la base de datos ... 35%(Leyendo la base de datos ... 40%(Leyendo la base de datos ... 45%(Leyendo la base de datos ... 50%(Leyendo la base de datos ... 55%(Leyendo la base de datos ... 60%(Leyendo la base de datos ... 65%(Leyendo la base de datos ... 70%(Leyendo la base de datos ... 75%(Leyendo la base de datos ... 80%(Leyendo la base de datos ... 85%(Leyendo la base de datos ... 90%(Leyendo la base de datos ... 95%(Leyendo la base de datos ... 100%(Leyendo la base de datos ... 45423 ficheros o directorios instalados actualmente.)
+Preparando para desempaquetar .../php7.4-mysql_7.4.33-1+deb11u8_amd64.deb ...
+Desempaquetando php7.4-mysql (7.4.33-1+deb11u8) ...
+Seleccionando el paquete php-mysql previamente no seleccionado.
+Preparando para desempaquetar .../php-mysql_2%3a7.4+76_all.deb ...
+Desempaquetando php-mysql (2:7.4+76) ...
+Configurando php7.4-mysql (7.4.33-1+deb11u8) ...
+
+Creating config file /etc/php/7.4/mods-available/mysqlnd.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/mysqli.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/pdo_mysql.ini with new version
+Configurando php-mysql (2:7.4+76) ...
+Procesando disparadores para libapache2-mod-php7.4 (7.4.33-1+deb11u8) ...
+Procesando disparadores para php7.4-cli (7.4.33-1+deb11u8) ...
+Log ended: 2025-06-09  01:49:02

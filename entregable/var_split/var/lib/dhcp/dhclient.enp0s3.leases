@@ -1,0 +1,29 @@
+default-duid "\000\001\000\001&\024\244&\010\000'\354\230\334";
+lease {
+  interface "enp0s3";
+  fixed-address 192.168.1.13;
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.1.1;
+  option dhcp-lease-time 86400;
+  option dhcp-message-type 5;
+  option domain-name-servers 192.168.1.1;
+  option dhcp-server-identifier 192.168.1.1;
+  option vivso 0:0:0:0:1f:4:6:38:43:45:31:31:37:5:f:5a:54:45:45:51:44:34:47:43:4a:30:33:38:35:36:6:4:46:36:37:30;
+  renew 6 2025/05/24 06:52:46;
+  rebind 6 2025/05/24 17:37:19;
+  expire 6 2025/05/24 20:37:19;
+}
+lease {
+  interface "enp0s3";
+  fixed-address 192.168.1.13;
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.1.1;
+  option dhcp-lease-time 86400;
+  option dhcp-message-type 5;
+  option domain-name-servers 192.168.1.1;
+  option dhcp-server-identifier 192.168.1.1;
+  option vivso 0:0:0:0:1f:4:6:38:43:45:31:31:37:5:f:5a:54:45:45:51:44:34:47:43:4a:30:33:38:35:36:6:4:46:36:37:30;
+  renew 6 2025/05/24 02:09:52;
+  rebind 6 2025/05/24 02:09:52;
+  expire 6 2025/05/24 02:09:52;
+}

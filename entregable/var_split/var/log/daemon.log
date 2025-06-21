@@ -1,0 +1,77 @@
+Jun 21 15:21:12 TPServer systemd[1]: rsyslog.service: Sent signal SIGHUP to main process 446 (rsyslogd) on client request.
+Jun 21 15:21:12 TPServer systemd[1]: logrotate.service: Succeeded.
+Jun 21 15:21:12 TPServer systemd[1]: Finished Rotate log files.
+Jun 21 15:21:12 TPServer systemd[1]: Started OpenBSD Secure Shell server.
+Jun 21 15:21:13 TPServer apachectl[546]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+Jun 21 15:21:13 TPServer systemd[1]: Started The Apache HTTP Server.
+Jun 21 15:21:13 TPServer systemd[1]: phpsessionclean.service: Succeeded.
+Jun 21 15:21:13 TPServer systemd[1]: Finished Clean php session files.
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] Starting MariaDB 10.5.29-MariaDB-0+deb11u1 source revision c461188ca6ad6ec3a54201eb87ebd75797d296df server_uid CzrMXFP6WTuzJhvqHehjK7pTYCE= as process 595
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: Uses event mutexes
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: Number of pools: 1
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: Using Linux native AIO
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: Completed initialization of buffer pool
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: 128 rollback segments are active.
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: 10.5.29 started; log sequence number 65123; transaction id 107
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] Plugin 'FEEDBACK' is disabled.
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: Loading buffer pool(s) from /var/lib/mysql/ib_buffer_pool
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] InnoDB: Buffer pool(s) load completed at 250621 15:21:13
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] Server socket created on IP: '127.0.0.1'.
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] Reading of all Master_info entries succeeded
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] Added new Master_info '' to hash table
+Jun 21 15:21:13 TPServer mariadbd[595]: 2025-06-21 15:21:13 0 [Note] /usr/sbin/mariadbd: ready for connections.
+Jun 21 15:21:13 TPServer mariadbd[595]: Version: '10.5.29-MariaDB-0+deb11u1'  socket: '/run/mysqld/mysqld.sock'  port: 3306  Debian 11
+Jun 21 15:21:13 TPServer systemd[1]: Started MariaDB 10.5.29 database server.
+Jun 21 15:21:13 TPServer systemd[1]: Reached target Multi-User System.
+Jun 21 15:21:13 TPServer systemd[1]: Reached target Graphical Interface.
+Jun 21 15:21:13 TPServer systemd[1]: Starting Update UTMP about System Runlevel Changes...
+Jun 21 15:21:13 TPServer /etc/mysql/debian-start[651]: Upgrading MySQL tables if necessary.
+Jun 21 15:21:13 TPServer systemd[1]: systemd-update-utmp-runlevel.service: Succeeded.
+Jun 21 15:21:13 TPServer systemd[1]: Finished Update UTMP about System Runlevel Changes.
+Jun 21 15:21:13 TPServer systemd[1]: man-db.service: Succeeded.
+Jun 21 15:21:13 TPServer systemd[1]: Finished Daily man-db regeneration.
+Jun 21 15:21:13 TPServer systemd[1]: Startup finished in 3.737s (kernel) + 2.398s (userspace) = 6.136s.
+Jun 21 15:21:13 TPServer /etc/mysql/debian-start[655]: Looking for 'mariadb' as: /usr/bin/mariadb
+Jun 21 15:21:13 TPServer /etc/mysql/debian-start[655]: Looking for 'mariadb-check' as: /usr/bin/mariadb-check
+Jun 21 15:21:13 TPServer /etc/mysql/debian-start[655]: This installation of MariaDB is already upgraded to 10.5.28-MariaDB.
+Jun 21 15:21:13 TPServer /etc/mysql/debian-start[655]: There is no need to run mysql_upgrade again for 10.5.29-MariaDB, because they're both 10.5.
+Jun 21 15:21:13 TPServer /etc/mysql/debian-start[655]: You can use --force if you still want to run mysql_upgrade
+Jun 21 15:21:13 TPServer /etc/mysql/debian-start[663]: Checking for insecure root accounts.
+Jun 21 15:21:13 TPServer /etc/mysql/debian-start[667]: Triggering myisam-recover for all MyISAM tables and aria-recover for all Aria tables
+Jun 21 15:21:30 TPServer systemd[1]: Starting Online ext4 Metadata Check for All Filesystems...
+Jun 21 15:21:30 TPServer systemd[1]: e2scrub_all.service: Succeeded.
+Jun 21 15:21:30 TPServer systemd[1]: Finished Online ext4 Metadata Check for All Filesystems.
+Jun 21 15:21:30 TPServer systemd[1]: Created slice User Slice of UID 0.
+Jun 21 15:21:30 TPServer systemd[1]: Starting User Runtime Directory /run/user/0...
+Jun 21 15:21:30 TPServer systemd[1]: Finished User Runtime Directory /run/user/0.
+Jun 21 15:21:30 TPServer systemd[1]: Starting User Manager for UID 0...
+Jun 21 15:21:30 TPServer systemd[703]: Queued start job for default target Main User Target.
+Jun 21 15:21:30 TPServer systemd[703]: Reached target Paths.
+Jun 21 15:21:30 TPServer systemd[703]: Reached target Sockets.
+Jun 21 15:21:30 TPServer systemd[703]: Reached target Timers.
+Jun 21 15:21:30 TPServer systemd[703]: Reached target Basic System.
+Jun 21 15:21:30 TPServer systemd[1]: Started User Manager for UID 0.
+Jun 21 15:21:30 TPServer systemd[703]: Reached target Main User Target.
+Jun 21 15:21:30 TPServer systemd[703]: Startup finished in 123ms.
+Jun 21 15:21:30 TPServer systemd[1]: Started Session 2 of user root.
+Jun 21 15:21:42 TPServer systemd[1]: systemd-fsckd.service: Succeeded.
+Jun 21 15:22:35 TPServer systemd[1]: Started Session 4 of user root.
+Jun 21 15:23:30 TPServer systemd[1]: Starting Daily apt upgrade and clean activities...
+Jun 21 15:23:31 TPServer systemd[1]: apt-daily-upgrade.service: Succeeded.
+Jun 21 15:23:31 TPServer systemd[1]: Finished Daily apt upgrade and clean activities.
+Jun 21 15:36:12 TPServer systemd[1]: anacron.service: Killing process 805 (anacron) with signal SIGKILL.
+Jun 21 15:36:12 TPServer systemd[1]: anacron.service: Succeeded.
+Jun 21 15:36:12 TPServer systemd[1]: Started Run anacron jobs.
+Jun 21 15:36:12 TPServer systemd[1]: Starting Cleanup of Temporary Directories...
+Jun 21 15:36:12 TPServer systemd[1]: anacron.service: Succeeded.
+Jun 21 15:36:12 TPServer systemd[1]: systemd-tmpfiles-clean.service: Succeeded.
+Jun 21 15:36:12 TPServer systemd[1]: Finished Cleanup of Temporary Directories.
+Jun 21 15:39:46 TPServer systemd[1]: Starting Clean php session files...
+Jun 21 15:39:46 TPServer systemd[1]: phpsessionclean.service: Succeeded.
+Jun 21 15:39:46 TPServer systemd[1]: Finished Clean php session files.

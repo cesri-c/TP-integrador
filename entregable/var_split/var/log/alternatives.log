@@ -1,0 +1,13 @@
+update-alternatives 2025-06-07 15:34:48: run with --install /etc/mysql/my.cnf my.cnf /etc/mysql/mariadb.cnf 200
+update-alternatives 2025-06-08 22:10:16: run with --remove php /usr/bin/php7.4
+update-alternatives 2025-06-08 22:10:16: link group php fully removed
+update-alternatives 2025-06-08 22:10:16: run with --remove phar /usr/bin/phar7.4
+update-alternatives 2025-06-08 22:10:16: link group phar fully removed
+update-alternatives 2025-06-08 22:10:16: run with --remove phar.phar /usr/bin/phar.phar7.4
+update-alternatives 2025-06-08 22:10:16: link group phar.phar fully removed
+update-alternatives 2025-06-08 22:11:15: run with --install /usr/bin/php php /usr/bin/php7.4 74 --slave /usr/share/man/man1/php.1.gz php.1.gz /usr/share/man/man1/php7.4.1.gz
+update-alternatives 2025-06-08 22:11:15: link group php updated to point to /usr/bin/php7.4
+update-alternatives 2025-06-08 22:11:15: run with --install /usr/bin/phar phar /usr/bin/phar7.4 74 --slave /usr/share/man/man1/phar.1.gz phar.1.gz /usr/share/man/man1/phar7.4.1.gz
+update-alternatives 2025-06-08 22:11:15: link group phar updated to point to /usr/bin/phar7.4
+update-alternatives 2025-06-08 22:11:15: run with --install /usr/bin/phar.phar phar.phar /usr/bin/phar.phar7.4 74 --slave /usr/share/man/man1/phar.phar.1.gz phar.phar.1.gz /usr/share/man/man1/phar.phar7.4.1.gz
+update-alternatives 2025-06-08 22:11:15: link group phar.phar updated to point to /usr/bin/phar.phar7.4
